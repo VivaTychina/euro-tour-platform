@@ -1,4 +1,6 @@
-# euro-tour-platform ist eine Webplattform zur Buchung von Touren in Europa, die mit modernen Frontend-Technologien entwickelt wurde. Die Plattform ist für schnelle Ladezeiten, eine intuitive Benutzeroberfläche und Browserkompatibilität optimiert.
+# euro-tour-platform 
+
+ist eine Webplattform zur Buchung von Touren in Europa, die mit modernen Frontend-Technologien entwickelt wurde. Die Plattform ist für schnelle Ladezeiten, eine intuitive Benutzeroberfläche und Browserkompatibilität optimiert.
 
 Technische Besonderheiten
 Responsive Design: Verwendung von CSS Flexbox und Grid für die korrekte Darstellung auf Mobilgeräten, Tablets und Desktop-Computern; Media Queries zur Anpassung der Elemente an verschiedene Bildschirmauflösungen.
